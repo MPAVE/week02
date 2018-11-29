@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>tema_3_module_2_ex8_copyelements_array_into_anothe</RootNamespace>
+  </PropertyGroup>
+
+</Project>
